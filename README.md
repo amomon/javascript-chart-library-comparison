@@ -1,1 +1,1 @@
-# javaScript-chart-library-Comparison
+# javascript-chart-library-comparison
